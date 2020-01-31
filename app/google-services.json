@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161152307723",
+    "firebase_url": "https://trackingapp-282d6.firebaseio.com",
+    "project_id": "trackingapp-282d6",
+    "storage_bucket": "trackingapp-282d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161152307723:android:abf0c14b071e8a12dd6d0e",
+        "android_client_info": {
+          "package_name": "com.example.android.tracking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161152307723-le85bir07696tdj03enfn8j179mdular.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.tracking_app",
+            "certificate_hash": "32c6e3183200e9bad57229ea3a7761d25723d78c"
+          }
+        },
+        {
+          "client_id": "161152307723-ocakoenfdbgablpk9elq804vdh8v61nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALgIwmDVrEoJXAMH3zFwNyRQvDsWbPWDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161152307723-ocakoenfdbgablpk9elq804vdh8v61nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
