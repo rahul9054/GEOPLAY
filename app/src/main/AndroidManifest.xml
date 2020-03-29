@@ -51,7 +51,7 @@
     <activity android:name=".UserLocation"/>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAhjfqo_P2Z0QOPfqMZE8hk81Q9pDLQeS8" />
+            android:value="" />
         <service
             android:name=".FetchAddressIntentService"
             android:exported="false"/>
